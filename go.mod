@@ -1,4 +1,4 @@
-module github.com/Parker-Yang/fabric_sdk_yml
+module github.com/Parker-Yang/fabric-sdk-yml
 
 go 1.14
 

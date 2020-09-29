@@ -2,7 +2,7 @@
 <module type="WEB_MODULE" version="4">
   <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../fabric_sdk_yml" />
+    <content url="file://$MODULE_DIR$/../fabric-sdk-yml" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
