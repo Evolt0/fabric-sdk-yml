@@ -18,7 +18,7 @@ type Base struct {
 	Organization string `yaml:"organization"`
 	Username     string `yaml:"username"`
 	ChannelID    string `yaml:"channelID"`
-	ChainCodeID  string `yaml:"chainCode"`
+	ChainCodeID  string `yaml:"chainCodeID"`
 }
 type Client struct {
 	// 生成fabSDK以及fabric go sdk中其他pkg使用的option context。
